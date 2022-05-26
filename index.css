@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+.card {
+    margin-top: 8rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+.card-header {
+    background-color: #111111;
+    color: white;
+}
+
+.card-body {
+    background-color: #111111;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    border-style: hidden;
+    color: white;
+}
+
+
+/* th {
+    background-color: #181818;
+    color: #E7450D;
+} */
+
+td,
+th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    /* padding: 8px; */
+    border: 0.1px;
+    color: white;
+}
+
+#datetime {
+    font-size: 1rem;
+}
