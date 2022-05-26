@@ -10,7 +10,7 @@ body {
 
 .card-header {
     background-color: #111111;
-    color: white;
+    color: wheat;
 }
 
 .card-body {
@@ -21,22 +21,13 @@ table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     border-style: hidden;
-    color: white;
 }
-
-
-/* th {
-    background-color: #181818;
-    color: #E7450D;
-} */
 
 td,
 th {
-    /* border: 1px solid #dddddd; */
     text-align: left;
-    /* padding: 8px; */
     border: 0.1px;
-    color: white;
+    color: rgb(145, 144, 144);
 }
 
 #datetime {

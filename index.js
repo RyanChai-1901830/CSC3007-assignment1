@@ -64,5 +64,6 @@ function display_data(data) {
 
     // Setting innerHTML for table
     document.getElementById("table-data").innerHTML = table;
+    // Setting the updated time
     document.getElementById("datetime").innerHTML += updated_date_time;
 }
